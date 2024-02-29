@@ -7,7 +7,7 @@ import pandas as pd
 
 class DataConnector:
     """
-    A class to connect to data sources and perform data operations.
+    class to connect to data sources and perform data operations.
       
     """
 
